@@ -27,7 +27,7 @@ The app is engineered with **Jetpack Compose** for a fluid, reactive Android use
 
 ![SafeSearchAI Preview](assets/safesearchai-feature-preview.png)
 
-*Figure 2: SafeSearchAI Feature Preview*
+
 
 ## 🛠️ Tech Stack & Architecture
 
