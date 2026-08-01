@@ -11,12 +11,10 @@
 
 </div>
 
----
-
-
----
-
-## 📖 Description
+<div align="center">
+  <h1> Description </h1>
+  <p><strong>Real-Time Fall and Fire Detection System with Advanced Escalation</strong></p>
+</div>
 
 **SafeSearchAI** is not just a chatbot — it is a smart security layer for AI conversations. Every query is classified in real-time using a **5-layer hybrid LLM and keyword risk detection system** powered by **Llama 3.1 8B via the Cerebras API**. To provide immediate visual feedback, each response card is color-coded based on its classification risk level — **Green for Safe, Yellow for Sensitive, and Red for Harmful**. 
 
