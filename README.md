@@ -67,17 +67,6 @@ graph TD
 
 ---
 
-## 📸 Screenshots
-
-| Chat Interface | Risk Classification | Theme Switcher | Admin Dashboard |
-| :---: | :---: | :---: | :---: |
-| *[Add Chat Screen]* | *[Add Risk Screen]* | *[Add Theme Screen]* | *[Add Admin Screen]* |
-| <img src="assets/chat-screen.png" width="180" alt="Chat UI"/> | <img src="assets/risk-screen.png" width="180" alt="Risk Analysis"/> | <img src="assets/theme-screen.png" width="180" alt="Theme UI"/> | <img src="assets/admin-screen.png" width="180" alt="Admin UI"/> |
-
-> 💡 **Tip for Recruiters**: Place screenshot files inside the `assets/` folder using the names `chat-screen.png`, `risk-screen.png`, `theme-screen.png`, and `admin-screen.png` to load them above.
-
----
-
 ## ⚙️ Setup & Installation
 
 Follow these steps to build and run SafeSearchAI locally:
