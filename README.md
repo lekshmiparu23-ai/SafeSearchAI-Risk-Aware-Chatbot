@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="assets/safesearchai-banner.png" alt="SafeSearchAI-Risk-Aware-Chatbot Banner" width="100%">
+</div>
 # 🛡️ SafeSearchAI — Risk-Aware Chatbot
 
 <div align="center">
