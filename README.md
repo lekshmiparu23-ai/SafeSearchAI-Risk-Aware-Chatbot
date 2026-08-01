@@ -13,11 +13,7 @@
 
 ---
 
-## 📌 Banner & Feature Preview
 
-![SafeSearchAI Banner](assets/safesearchai-banner.png)
-
-*Figure 1: SafeSearchAI Banner*
 
 ![SafeSearchAI Preview](assets/safesearchai-feature-preview.png)
 
