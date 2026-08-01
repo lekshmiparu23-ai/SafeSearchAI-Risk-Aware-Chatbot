@@ -1,0 +1,32 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local config
+local.properties
+*.iml
+.idea/
+.vscode/
+
+# Python virtual env
+.venv/
+
+# Logs
+*.log
+
+# Android/Java
+*.class
+*.dex
+*.apk
+*.aar
+*.jar
+*.hprof
+
+# Office docs / binaries
+*.pptx
+*.docx
+
+# OS files
+.DS_Store
+Thumbs.db

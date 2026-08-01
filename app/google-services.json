@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305297106244",
+    "project_id": "safesearchai-cd087",
+    "storage_bucket": "safesearchai-cd087.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305297106244:android:c317d306270ff059c6a311",
+        "android_client_info": {
+          "package_name": "com.safesearch.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAHkNR_AgXHe8GxKr7JvEhP8sth9f4GQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
