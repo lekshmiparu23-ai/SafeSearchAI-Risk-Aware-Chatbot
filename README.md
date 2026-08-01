@@ -14,11 +14,6 @@
 ---
 
 
-
-![SafeSearchAI Preview](assets/safesearchai-feature-preview.png)
-
-*Figure 2: SafeSearchAI Feature Preview*
-
 ---
 
 ## 📖 Description
