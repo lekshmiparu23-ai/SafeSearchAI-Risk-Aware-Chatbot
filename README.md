@@ -1,10 +1,8 @@
 <div align="center">
   <img src="assets/safesearchai-banner.png" alt="SafeSearchAI-Risk-Aware-Chatbot Banner" width="100%">
 </div>
-# 🛡️ SafeSearchAI — Risk-Aware Chatbot
-
 <div align="center">
-
+  
 [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Firebase](https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com)
