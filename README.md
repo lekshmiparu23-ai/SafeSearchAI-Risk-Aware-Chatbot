@@ -68,12 +68,12 @@ graph TD
 ---
 
 ## ⚙️ Setup & Installation
-
 Follow these steps to build and run SafeSearchAI locally:
 
 ### Prerequisites
 - **Android Studio** (Latest stable version, e.g., Ladybug / Koala / Iguana)
 - **Firebase Account** with a Firestore Database instance
+- **Cerebras Account** for the AI API key
 
 ### Step-by-Step Guide
 
@@ -87,16 +87,29 @@ Follow these steps to build and run SafeSearchAI locally:
    - Add an Android App with the package name: `com.safesearch.ai`
    - Download the generated `google-services.json` configuration file.
    - Copy `google-services.json` and paste it inside the `app/` folder:
-     ```bash
+```bash
      app/google-services.json
-     ```
+```
 
-3. **Firestore Setup**
+3. **Configure Cerebras API Key**
+   - Go to [Cerebras AI Console](https://cloud.cerebras.ai/)
+   - Sign up or log in to your account.
+   - Navigate to **API Keys** section and click **Create New API Key**.
+   - Copy the generated API key.
+   - In the project, find the API key placeholder and replace it:
+```bash
+     CEREBRAS_API_KEY = "your_api_key_here"
+```
+   - ⚠️ **Important:** Never share or push your API key
+     to GitHub — add it to `.gitignore` to keep it safe.
+
+4. **Firestore Setup**
    - Enable Firestore Database in the Firebase Console.
    - Choose **Start in Test Mode** (allows quick read/write during debugging).
 
-4. **Build and Run**
-   - Connect your physical Android device with USB debugging enabled OR start an Android Virtual Device (AVD).
+5. **Build and Run**
+   - Connect your physical Android device with USB debugging enabled
+     OR start an Android Virtual Device (AVD).
    - Press the **Run** button (green play icon) in the Android Studio toolbar.
 
 ---
