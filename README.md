@@ -28,6 +28,11 @@
 The app is engineered with **Jetpack Compose** for a fluid, reactive Android user interface, backed by **Firebase** for real-time data synchronization. Additionally, it offers a manual theme switcher allowing users to choose between **Dark, Light, and Pink modes**, making SafeSearchAI both highly secure and fully personalized.
 
 ---
+## 📌 Feature Preview
+
+![SafeSearchAI Preview](assets/safesearchai-feature-preview.png)
+
+*Figure 2: SafeSearchAI Feature Preview*
 
 ## 🛠️ Tech Stack & Architecture
 
